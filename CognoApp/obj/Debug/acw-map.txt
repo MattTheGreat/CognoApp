@@ -1,0 +1,4 @@
+CognoApp.MainActivity, CognoApp;md584dd585069260595ecad684e070811a7.MainActivity
+CognoApp.MainActivity, CognoApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md584dd585069260595ecad684e070811a7.MainActivity
+CognoApp.MainActivity;md584dd585069260595ecad684e070811a7.MainActivity
+cognoapp.MainActivity;md584dd585069260595ecad684e070811a7.MainActivity
